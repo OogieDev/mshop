@@ -18,6 +18,7 @@ class App
         //запишем в self::$app объект реестра
         self::$app = Registry::instance();
         $this->getParams();
+        new ErrorHandler();
     }
 
     /**
