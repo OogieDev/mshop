@@ -84,3 +84,7 @@
 =====================================================
 [2018-07-24 03:19:15] Текст ошибки: Страница не найдена | Файл: C:\LocalServer\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  58
 =====================================================
+[2018-07-24 20:00:07] Текст ошибки: Страница не найдена | Файл: C:\LocalServer\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  58
+=====================================================
+[2018-07-24 20:15:16] Текст ошибки: Метод app\controllers\PageController->indexAction не найден | Файл: C:\LocalServer\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  52
+=====================================================
