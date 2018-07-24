@@ -56,3 +56,31 @@
 =====================================================
 [2018-07-24 00:22:32] Текст ошибки: Страница не найдена | Файл: C:\LocalServer\OSPanel\domains\mshop.loc\public\index.php | Строка:  11
 =====================================================
+[2018-07-24 01:35:46] Текст ошибки: Страница не найдена | Файл: C:\LocalServer\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  47
+=====================================================
+[2018-07-24 03:10:43] Текст ошибки: Контроллер app\controllers\Controller не найден | Файл: C:\LocalServer\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  51
+=====================================================
+[2018-07-24 03:11:01] Текст ошибки: Class 'app\controllers\Controller' not found | Файл: C:\LocalServer\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  47
+=====================================================
+[2018-07-24 03:11:44] Текст ошибки: Class 'app\controllers\PageController' not found | Файл: C:\LocalServer\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  47
+=====================================================
+[2018-07-24 03:12:20] Текст ошибки: Class 'app\controllers\PageController' not found | Файл: C:\LocalServer\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  47
+=====================================================
+[2018-07-24 03:13:25] Текст ошибки: Class 'app\controllers\PageController' not found | Файл: C:\LocalServer\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  47
+=====================================================
+[2018-07-24 03:15:17] Текст ошибки: Class 'app\controllers\PageController' not found | Файл: C:\LocalServer\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  47
+=====================================================
+[2018-07-24 03:15:46] Текст ошибки: Class 'app\controllers\PageController' not found | Файл: C:\LocalServer\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  47
+=====================================================
+[2018-07-24 03:16:26] Текст ошибки: Class 'app\controllers\PageController' not found | Файл: C:\LocalServer\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  47
+=====================================================
+[2018-07-24 03:16:26] Текст ошибки: Class 'app\controllers\PageController' not found | Файл: C:\LocalServer\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  47
+=====================================================
+[2018-07-24 03:16:26] Текст ошибки: Class 'app\controllers\PageController' not found | Файл: C:\LocalServer\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  47
+=====================================================
+[2018-07-24 03:16:27] Текст ошибки: Class 'app\controllers\PageController' not found | Файл: C:\LocalServer\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  47
+=====================================================
+[2018-07-24 03:16:30] Текст ошибки: Контроллер app\controllers\MainController не найден | Файл: C:\LocalServer\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  55
+=====================================================
+[2018-07-24 03:19:15] Текст ошибки: Страница не найдена | Файл: C:\LocalServer\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  58
+=====================================================
