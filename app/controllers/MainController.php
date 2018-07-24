@@ -6,8 +6,11 @@ class MainController extends AppController
 {
 
     public function indexAction(){
-        $this->setMeta('Заголовок файла', 'Описание страницы', 'Ключевые слова');
-        $this->getView();
+        $this->setMeta('Title', 'description', 'keywords');
+        $name = 'john';
+        $age = '30';
+        $this->set(compact('age', 'name'));
+
     }
 
 }

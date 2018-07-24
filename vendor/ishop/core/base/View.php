@@ -30,6 +30,9 @@ class View
     }
 
     public function render($data){
+        if(is_array($data)){
+            extract($data);
+        }
         //формируем путь ко вьюхе
         $viewFile = APP . "/views/{$this->prefix}{$this->controller}/{$this->view}.php";
         if(is_file($viewFile)){
