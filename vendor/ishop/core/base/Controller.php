@@ -9,6 +9,7 @@ abstract class Controller
     public $route;
     public $controller;
     public $view;
+    public $layout;
     public $model;
     public $prefix;
     public $data = [];
@@ -41,6 +42,11 @@ abstract class Controller
         $this->meta['title'] = $title;
         $this->meta['desk'] = $desctiption;
         $this->meta['keywords'] = $keywords;
+    }
+
+    public function getView(){
+        $viewObject = new View($this->route, $this->layout, $this->view, $this->meta);
+        $viewObject->render($this->data);
     }
 
 }

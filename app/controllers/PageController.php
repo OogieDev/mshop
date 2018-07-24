@@ -7,7 +7,7 @@ class PageController extends AppController
 {
 
     public function viewAction(){
-        echo 'viewAction';
+
     }
 
 }
