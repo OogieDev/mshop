@@ -3,6 +3,8 @@
 namespace ishop\base;
 
 
+use ishop\Db;
+
 abstract class Model
 {
 
@@ -12,7 +14,7 @@ abstract class Model
 
     public function __construct()
     {
-
+        Db::instance();
     }
 
 }
