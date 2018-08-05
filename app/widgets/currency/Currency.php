@@ -3,6 +3,8 @@
 namespace app\widgets\currency;
 
 
+use ishop\App;
+
 class Currency
 {
 
@@ -13,17 +15,19 @@ class Currency
     public function __construct()
     {
          $this->tpl = __DIR__ . '/currency_tpl/currency.php';
+         $this->run();
     }
 
     protected function run()
     {
-
-        $this->getHtml();
+        $this->currencies = App::$app->getProperty('currencies');
+        $this->currency = App::$app->getProperty('currency');
+        echo $this->getHtml();
     }
 
     public static function getCurrencies()
     {
-        return \R::getAssoc("SELECT code, title, symbol_left, symbol_right, value, base FROM currency ORDER BY base");
+        return \R::getAssoc("SELECT code, title, symbol_left, symbol_right, value, base FROM currency ORDER BY -base");
     }
 
     public static function getCurrency($currencies)
@@ -40,7 +44,9 @@ class Currency
 
     protected function getHtml()
     {
-
+        ob_start();
+        require_once $this->tpl;
+        return ob_get_clean();
     }
 
 }

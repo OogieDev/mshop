@@ -80,3 +80,81 @@
 =====================================================
 [2018-08-05 17:25:46] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
 =====================================================
+[2018-08-05 17:37:04] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-05 17:37:12] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-05 17:37:45] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-05 17:39:17] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-05 17:40:34] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-05 17:40:40] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-05 17:40:53] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-05 17:41:13] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-05 17:41:33] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-05 17:41:47] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-05 17:43:58] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-05 17:44:53] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-05 17:44:56] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-05 17:46:22] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-05 17:46:39] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-05 17:46:59] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-05 17:47:22] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-05 18:03:58] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-05 18:05:59] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-05 18:10:01] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-05 18:10:03] Текст ошибки: Call to undefined method app\controllers\CurrencyController::getView() | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  53
+=====================================================
+[2018-08-05 18:11:05] Текст ошибки: Call to undefined method app\controllers\CurrencyController::getView() | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  53
+=====================================================
+[2018-08-05 18:12:44] Текст ошибки: Call to undefined method app\controllers\CurrencyController::getView() | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  53
+=====================================================
+[2018-08-05 18:13:03] Текст ошибки: Call to undefined method app\controllers\CurrencyController::getView() | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  53
+=====================================================
+[2018-08-05 18:13:19] Текст ошибки: Call to undefined method app\controllers\CurrencyController::getView() | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  53
+=====================================================
+[2018-08-05 18:13:57] Текст ошибки: Call to undefined method app\controllers\CurrencyController::getView() | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  53
+=====================================================
+[2018-08-05 18:14:03] Текст ошибки: Call to undefined method app\controllers\CurrencyController::getView() | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  53
+=====================================================
+[2018-08-05 18:14:22] Текст ошибки: Call to undefined method app\controllers\CurrencyController::getView() | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  53
+=====================================================
+[2018-08-05 18:14:36] Текст ошибки: Call to undefined method app\controllers\CurrencyController::getView() | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  53
+=====================================================
+[2018-08-05 18:15:25] Текст ошибки: Не найден вид C:\webserver\OSPanel\domains\mshop.loc/app/views/Currency/change.php | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\base\View.php | Строка:  44
+=====================================================
+[2018-08-05 18:17:27] Текст ошибки: Не найден вид C:\webserver\OSPanel\domains\mshop.loc/app/views/Currency/change.php | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\base\View.php | Строка:  44
+=====================================================
+[2018-08-05 18:18:28] Текст ошибки: Не найден вид C:\webserver\OSPanel\domains\mshop.loc/app/views/Currency/change.php | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\base\View.php | Строка:  44
+=====================================================
+[2018-08-05 18:18:34] Текст ошибки: Не найден вид C:\webserver\OSPanel\domains\mshop.loc/app/views/Currency/change.php | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\base\View.php | Строка:  44
+=====================================================
+[2018-08-05 18:18:39] Текст ошибки: Не найден вид C:\webserver\OSPanel\domains\mshop.loc/app/views/Currency/change.php | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\base\View.php | Строка:  44
+=====================================================
+[2018-08-05 18:18:58] Текст ошибки: Не найден вид C:\webserver\OSPanel\domains\mshop.loc/app/views/Currency/change.php | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\base\View.php | Строка:  44
+=====================================================
+[2018-08-05 18:24:58] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-05 18:25:10] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-05 18:25:18] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-05 18:27:23] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
