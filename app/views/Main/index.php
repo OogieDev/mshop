@@ -42,6 +42,7 @@
 <!--about-end-->
 <!--product-starts-->
 <?php if($hits): ?>
+    <?php $curr = \ishop\App::$app->getProperty('currency'); ?>
 <div class="product">
     <div class="container">
         <div class="product-top">
@@ -53,9 +54,9 @@
                         <div class="product-bottom">
                             <h3><a href="product/<?= $hit->alias; ?>"><?= $hit->title; ?></a></h3>
                             <p>Explore Now</p>
-                            <h4><a class="add-to-cart-link" href="cart/add?id=<?= $hit->id; ?>"><i></i></a> <span class=" item_price">$ <?= $hit->price; ?></span>
+                            <h4><a class="add-to-cart-link" href="cart/add?id=<?= $hit->id; ?>"><i></i></a> <span class=" item_price"><?= $curr['symbol_left'] ?><?= $hit->price * $curr['value'];?> <?= $curr['symbol_right'] ?></span>
                             <?php if($hit->old_price): ?>
-                                <small><del><?= $hit->old_price ?></del></small>
+                                <small><del><?= $curr['symbol_left'] ?><?= $hit->old_price * $curr['value'] ?><?= $curr['symbol_right'] ?></del></small>
                             <?php endif; ?></h4>
                         </div>
                         <?php if($hit->old_price): ?>
@@ -63,9 +64,9 @@
                             <span>
                                 -
                                 <?php echo floor(abs(
-                                    ($hit->old_price - $hit->price)
+                                    (($hit->old_price * $curr['value']) - ($hit->price * $curr['value']))
                                     /
-                                    (($hit->old_price + $hit->price) / 2) * 100
+                                    ((($hit->old_price * $curr['value']) + ($hit->price * $curr['value'])) / 2) * 100
                                 )); ?>
                                  %
                             </span>
