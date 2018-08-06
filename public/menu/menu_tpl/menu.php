@@ -1,7 +1,9 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: RAIN
- * Date: 05.08.2018
- * Time: 19:22
- */
+<?php $parent = isset($category['childs']); ?>
+<li>
+    <a href="category/<?=$category['alias'];?>"><?=$category['title'];?></a>
+    <?php if(isset($category['childs'])): ?>
+        <ul>
+            <?= $this->getMenuHtml($category['childs']); ?>
+        </ul>
+    <?php endif; ?>
+</li>
