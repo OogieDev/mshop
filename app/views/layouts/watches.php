@@ -11,6 +11,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
     <!--jQuery(necessary for Bootstrap's JavaScript plugins)-->
     <!--Custom-Theme-files-->
+    <link rel="stylesheet" href="megamenu/css/ionicons.min.css">
+    <link rel="stylesheet" href="megamenu/css/style.css">
     <!--theme-style-->
     <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
     <!--//theme-style-->
@@ -70,13 +72,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <div class="container">
         <div class="header">
             <div class="col-md-9 header-left">
-                <div class="menu">
-                    <?php new \app\widgets\menu\Menu([
-                        'tpl' => WWW . '/menu/menu_tpl/menu.php',
-                        'attrs' => [
-                                'style' => 'color:red;',
-                        ]
-                    ]); ?>
+                <div class="menu-container">
+                    <div class="menu">
+                        <?php new \app\widgets\menu\Menu([
+                            'tpl' => WWW . '/menu/menu_tpl/menu.php',
+                            'attrs' => [
+                                    'style' => 'color:red;',
+                            ]
+                        ]); ?>
+                    </div>
                 </div>
                 <!--<div class="top-nav">
                     <ul class="memenu skyblue"><li class="active"><a href="index.html">Home</a></li>
@@ -325,6 +329,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     });
 </script>
 <!--End-slider-script-->
+<script src="megamenu/js/megamenu.js"></script>
 <script src="js/main.js"></script>
 
 </body>
