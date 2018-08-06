@@ -454,3 +454,29 @@
 =====================================================
 [2018-08-07 01:21:25] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
 =====================================================
+[2018-08-07 01:30:24] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop2.ralated_product' doesn't exist | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка:  188
+=====================================================
+[2018-08-07 01:30:50] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-07 01:31:32] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-07 01:31:55] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-07 01:32:13] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-07 01:48:12] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-07 01:48:36] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-07 01:48:43] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-07 01:48:51] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-07 01:50:35] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-07 01:50:44] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-07 01:50:56] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-07 01:50:59] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
