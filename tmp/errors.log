@@ -448,3 +448,9 @@
 =====================================================
 [2018-08-07 00:21:55] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
 =====================================================
+[2018-08-07 01:14:31] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  58
+=====================================================
+[2018-08-07 01:21:23] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-07 01:21:25] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================

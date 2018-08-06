@@ -20,8 +20,8 @@
       <file leaf-file-name="watches.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/watches.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="313">
+              <caret line="355" lean-forward="true" selection-start-line="355" selection-end-line="355" />
             </state>
           </provider>
         </entry>
@@ -47,7 +47,7 @@
       <file leaf-file-name="ProductController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/ProductController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
+            <state relative-caret-position="160">
               <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
             </state>
           </provider>
@@ -62,11 +62,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="view.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="view.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/Product/view.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="177">
+              <caret line="86" column="76" selection-start-line="86" selection-start-column="76" selection-end-line="86" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="3076" column="16" selection-start-line="3076" selection-start-column="16" selection-end-line="3076" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/Main/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="59" column="43" lean-forward="true" selection-start-line="57" selection-start-column="22" selection-end-line="59" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -117,7 +135,6 @@
         <option value="$PROJECT_DIR$/tmp/errors.log" />
         <option value="$PROJECT_DIR$/config/config_db.php" />
         <option value="$PROJECT_DIR$/app/controllers/MainController.php" />
-        <option value="$PROJECT_DIR$/public/css/style.css" />
         <option value="$PROJECT_DIR$/app/widgets/currency/currency_tpl/currency.php" />
         <option value="$PROJECT_DIR$/app/widgets/currency/Currency.php" />
         <option value="$PROJECT_DIR$/public/js/main.js" />
@@ -133,9 +150,10 @@
         <option value="$PROJECT_DIR$/public/menu/menu_tpl/menu.php" />
         <option value="$PROJECT_DIR$/vendor/ishop/core/Router.php" />
         <option value="$PROJECT_DIR$/config/routes.php" />
-        <option value="$PROJECT_DIR$/app/views/layouts/watches.php" />
         <option value="$PROJECT_DIR$/app/controllers/ProductController.php" />
+        <option value="$PROJECT_DIR$/app/views/layouts/watches.php" />
         <option value="$PROJECT_DIR$/app/views/Product/view.php" />
+        <option value="$PROJECT_DIR$/public/css/style.css" />
       </list>
     </option>
   </component>
@@ -203,6 +221,13 @@
               <item name="mshop.loc" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mshop.loc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mshop.loc" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="Product" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -214,6 +239,12 @@
               <item name="mshop.loc" type="b2602c69:ProjectViewProjectNode" />
               <item name="mshop.loc" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mshop.loc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mshop.loc" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mshop.loc" type="b2602c69:ProjectViewProjectNode" />
@@ -267,18 +298,18 @@
       <workItem from="1532442369908" duration="13536000" />
       <workItem from="1533043483115" duration="613000" />
       <workItem from="1533321271592" duration="31941000" />
-      <workItem from="1533587808202" duration="3388000" />
+      <workItem from="1533587808202" duration="5360000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68961000" />
+    <option name="totallyTimeSpent" value="70933000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="373" y="260" width="753" height="507" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49497488" weight="0.5762224" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49497488" weight="0.5753053" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3288889" />
@@ -457,13 +488,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="3070" column="24" selection-start-line="3070" selection-start-column="24" selection-end-line="3070" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/MainController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -503,13 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/Main/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="58" column="110" lean-forward="true" selection-start-line="58" selection-start-column="110" selection-end-line="58" selection-end-column="110" />
         </state>
       </provider>
     </entry>
@@ -573,13 +590,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/watches.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -596,7 +606,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/ProductController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
+        <state relative-caret-position="160">
           <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
         </state>
       </provider>
@@ -608,10 +618,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/watches.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="355" lean-forward="true" selection-start-line="355" selection-end-line="355" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/Main/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="59" column="43" lean-forward="true" selection-start-line="57" selection-start-column="22" selection-end-line="59" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/Product/view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="177">
+          <caret line="86" column="76" selection-start-line="86" selection-start-column="76" selection-end-line="86" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="3076" column="16" selection-start-line="3076" selection-start-column="16" selection-end-line="3076" selection-end-column="16" />
         </state>
       </provider>
     </entry>
