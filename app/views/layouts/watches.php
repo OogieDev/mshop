@@ -7,11 +7,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
+    <base href="/">
     <?= $meta ?>
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
     <!--jQuery(necessary for Bootstrap's JavaScript plugins)-->
     <!--Custom-Theme-files-->
     <link rel="stylesheet" href="megamenu/css/ionicons.min.css">
+    <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
+
     <link rel="stylesheet" href="megamenu/css/style.css">
     <!--theme-style-->
     <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
@@ -19,7 +22,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <!--start-menu-->
-    <link href="css/memenu.css" rel="stylesheet" type="text/css" media="all" />
 
 
 </head>
@@ -64,7 +66,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!--top-header-->
 <!--start-logo-->
 <div class="logo">
-    <a href="index.html"><h1>Luxury Watches</h1></a>
+    <a href="<?=PATH;?>"><h1>Luxury Watches</h1></a>
 </div>
 <!--start-logo-->
 <!--bottom-header-->
@@ -302,8 +304,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!--footer-end-->
 <script src="js/jquery-1.11.0.min.js"></script>
 <script src="js/simpleCart.min.js"> </script>
-<script type="text/javascript" src="js/memenu.js"></script>
-<script>$(document).ready(function(){$(".memenu").memenu();});</script>
 <!--dropdown-->
 <script src="js/jquery.easydropdown.js"></script>
 <!--Slider-Starts-Here-->
@@ -326,6 +326,19 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             }
         });
 
+    });
+</script>
+<!-- FlexSlider -->
+<script src="js/imagezoom.js"></script>
+<script defer src="js/jquery.flexslider.js"></script>
+
+<script>
+    // Can also be used with $(document).ready()
+    $(window).load(function() {
+        $('.flexslider').flexslider({
+            animation: "slide",
+            controlNav: "thumbnails"
+        });
     });
 </script>
 <!--End-slider-script-->
