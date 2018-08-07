@@ -570,3 +570,23 @@
 =====================================================
 [2018-08-07 22:45:47] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
 =====================================================
+[2018-08-07 23:12:00] Текст ошибки: Class 'app\models\App' not found | Файл: C:\webserver\OSPanel\domains\mshop.loc\app\models\Breadcrumbs.php | Строка:  11
+=====================================================
+[2018-08-07 23:12:19] Текст ошибки: Class 'app\models\App' not found | Файл: C:\webserver\OSPanel\domains\mshop.loc\app\models\Breadcrumbs.php | Строка:  11
+=====================================================
+[2018-08-07 23:12:37] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-07 23:41:42] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-07 23:43:21] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-07 23:45:25] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-07 23:56:53] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-07 23:57:14] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-08 00:00:11] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
+[2018-08-08 00:01:04] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
+=====================================================
