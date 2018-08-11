@@ -59,6 +59,7 @@
                                     <small><del data-base="<?= $curr['symbol_left'] ?><?= $product->old_price * $curr['value'] ?><?= $curr['symbol_right'] ?>" id="old-price"><?= $curr['symbol_left'] ?><?= $product->old_price * $curr['value'] ?><?= $curr['symbol_right'] ?></del></small>
                                 <?php endif; ?></h5>
                             <?= $product->content; ?>
+                            <?php if($mods): ?>
                             <div class="available">
                                 <ul>
                                     <li>Color
@@ -71,6 +72,7 @@
                                     <div class="clearfix"> </div>
                                 </ul>
                             </div>
+                            <?php endif; ?>
                             <ul class="tag-men">
                                 <li><span>Category</span>
                                     <span>: <a href="category/<?= $cats[$product->category_id]['alias']; ?>"><?= $cats[$product->category_id]['title']; ?></a></span></li>

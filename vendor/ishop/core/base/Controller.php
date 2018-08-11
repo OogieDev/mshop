@@ -50,4 +50,15 @@ abstract class Controller
         $viewObject->render($this->data);
     }
 
+    function is_ajax() {
+        return (isset($_SERVER['HTTP_X_REQUESTED_WITH']) && (strtolower(getenv('HTTP_X_REQUESTED_WITH')) === 'xmlhttprequest'));
+    }
+
+    public function loadView($view, $vars = [])
+    {
+        extract($vars);
+        require APP . "/views/{$this->prefix}{$this->controller}/{$view}.php";
+        die;
+    }
+
 }
