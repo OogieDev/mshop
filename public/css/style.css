@@ -3077,5 +3077,9 @@ ul.tag-men {
 	float: left;
 }
 
+#cart table img {
+	max-height: 50px;
+}
+
 
 /*--media-quaries-end-here--*/
