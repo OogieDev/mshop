@@ -9,6 +9,7 @@
 namespace app\controllers;
 
 
+use app\models\Cart;
 use ishop\App;
 
 class CurrencyController extends AppController
@@ -19,8 +20,10 @@ class CurrencyController extends AppController
         $currency = !empty($_GET['curr']) ? $_GET['curr'] : null;
 
         if($currency && array_key_exists($currency, App::$app->getProperty('currencies'))){
+            $curr = \R::findOne('currency', 'code = ?', [$currency]);
             App::$app->setProperty('currency', $currency);
             setcookie('currency', $currency, time() + 3600 * 24 * 7, '/');
+            Cart::recalc($curr);
         }
         redirect();
     }

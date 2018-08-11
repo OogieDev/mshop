@@ -77,20 +77,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Controller.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/ishop/core/base/Controller.php">
+      <file leaf-file-name="Cart.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/models/Cart.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            <state relative-caret-position="245">
+              <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cart.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/models/Cart.php">
+      <file leaf-file-name="CurrencyController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/CurrencyController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="132">
+              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+              <folding>
+                <element signature="e#117#137#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -176,7 +179,6 @@
         <option value="$PROJECT_DIR$/app/widgets/currency/currency_tpl/currency.php" />
         <option value="$PROJECT_DIR$/app/widgets/currency/Currency.php" />
         <option value="$PROJECT_DIR$/vendor/ishop/core/libs/functions.php" />
-        <option value="$PROJECT_DIR$/app/controllers/CurrencyController.php" />
         <option value="$PROJECT_DIR$/app/controllers/AppController.php" />
         <option value="$PROJECT_DIR$/vendor/ishop/core/Cache.php" />
         <option value="$PROJECT_DIR$/public/test.php" />
@@ -197,6 +199,7 @@
         <option value="$PROJECT_DIR$/public/css/style.css" />
         <option value="$PROJECT_DIR$/app/controllers/CartController.php" />
         <option value="$PROJECT_DIR$/public/js/main.js" />
+        <option value="$PROJECT_DIR$/app/controllers/CurrencyController.php" />
         <option value="$PROJECT_DIR$/app/models/Cart.php" />
       </list>
     </option>
@@ -218,8 +221,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="545" />
-    <option name="y" value="140" />
+    <option name="x" value="579" />
+    <option name="y" value="41" />
     <option name="width" value="771" />
     <option name="height" value="439" />
   </component>
@@ -379,15 +382,15 @@
       <workItem from="1533043483115" duration="613000" />
       <workItem from="1533321271592" duration="31941000" />
       <workItem from="1533587808202" duration="18574000" />
-      <workItem from="1533907556029" duration="23422000" />
+      <workItem from="1533907556029" duration="26957000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107569000" />
+    <option name="totallyTimeSpent" value="111104000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="545" y="140" width="771" height="439" extended-state="0" />
+    <frame x="579" y="41" width="771" height="439" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49497488" weight="0.57350993" />
@@ -539,13 +542,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/CurrencyController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/widgets/currency/currency_tpl/currency.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -665,24 +661,20 @@
     <entry file="file://$PROJECT_DIR$/public/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/Main/index.php">
+    <entry file="file://$PROJECT_DIR$/vendor/ishop/core/base/Controller.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="56" column="153" selection-start-line="56" selection-start-column="153" selection-end-line="56" selection-end-column="153" />
+        <state relative-caret-position="17">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+    <entry file="file://$PROJECT_DIR$/public/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="3084" column="19" selection-start-line="3084" selection-start-column="19" selection-end-line="3084" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/Product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        <state relative-caret-position="126">
+          <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -696,22 +688,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="3084" column="19" selection-start-line="3084" selection-start-column="19" selection-end-line="3084" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/Main/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="56" column="153" selection-start-line="56" selection-start-column="153" selection-end-line="56" selection-end-column="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/watches.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="330" column="71" selection-start-line="330" selection-start-column="71" selection-end-line="330" selection-end-column="71" />
           <folding>
             <element signature="e#16239#16246#1#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -730,17 +733,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/ishop/core/base/Controller.php">
+    <entry file="file://$PROJECT_DIR$/app/controllers/CurrencyController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        <state relative-caret-position="132">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+          <folding>
+            <element signature="e#117#137#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/Cart.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="245">
+          <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
         </state>
       </provider>
     </entry>
