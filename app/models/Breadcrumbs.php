@@ -12,7 +12,6 @@ class Breadcrumbs extends AppModel
     {
         $cats = App::$app->getProperty('cats');
         $breadcrumbs_array = self::getParts($cats, $category_id);
-        debug($breadcrumbs_array);
         $breadcrumbs = "<li><a href='". PATH ."'>Главная</a></li>";
         if($breadcrumbs_array){
             foreach ($breadcrumbs_array as $alias => $title){
