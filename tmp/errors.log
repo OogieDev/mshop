@@ -762,3 +762,13 @@
 =====================================================
 [2018-08-11 20:08:50] Текст ошибки: Страница не найдена | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  61
 =====================================================
+[2018-08-11 23:55:11] Текст ошибки: Контроллер app\controllers\SearchController не найден | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  58
+=====================================================
+[2018-08-11 23:55:12] Текст ошибки: Контроллер app\controllers\SearchController не найден | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  58
+=====================================================
+[2018-08-12 00:01:09] Текст ошибки: Метод app\controllers\SearchController->indexAction не найден | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  55
+=====================================================
+[2018-08-12 00:22:09] Текст ошибки: Метод app\controllers\SearchController->indexAction не найден | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  55
+=====================================================
+[2018-08-12 00:22:50] Текст ошибки: Метод app\controllers\SearchController->indexAction не найден | Файл: C:\webserver\OSPanel\domains\mshop.loc\vendor\ishop\core\Router.php | Строка:  55
+=====================================================
