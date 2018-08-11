@@ -3081,5 +3081,8 @@ ul.tag-men {
 	max-height: 50px;
 }
 
+.del-item {
+	cursor: pointer;
+}
 
 /*--media-quaries-end-here--*/
