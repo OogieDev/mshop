@@ -237,6 +237,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <div class="search-bar">
                     <form action="search" method="get" autocomplete="off">
                         <input type="text" class="typeahead" id="typeahead" name="s">
+                        <input type="submit" value="">
                     </form>
 <!--                    <input type="text" value="Search" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search';}">-->
 <!--                    <input type="submit" value="">-->
